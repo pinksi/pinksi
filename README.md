@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a Computer Engineer working as a Data Scientist at [Docsumo](https://docsumo.com/about). I have completed my undergraduate from [IOE, Pulchowk Campus, Nepal]
-(http://doece.pcampus.edu.np/).
+I am a Computer Engineer working as a Data Scientist at [Docsumo](https://docsumo.com/about). I have completed my undergraduate from [IOE, Pulchowk Campus, Nepal](http://doece.pcampus.edu.np/).
 
 Currently, I am working on building an information extraction system from structured and unstructured documents, in the domain of computer vision, NLP and Machine Learning.
 
