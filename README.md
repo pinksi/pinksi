@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a graduate student doing my Masters in Informatics from [University of Louisiana at Lafayette](https://louisiana.edu/). I have industry experience in machine learning(computer vision and NLP), and data science. 
+I am a graduate student doing my Masters in Informatics from [University of Louisiana at Lafayette](https://louisiana.edu/). I have industry experience in machine learning (computer vision and NLP), and data science. 
 
-<b> Currently, I am pursuing research in working in the field of data mining and information retrieval. </b>
+<b> Currently, I am pursuing research in the field of data mining and information retrieval.</b>
 
 <!-- I am a Computer Engineer working as a Data Scientist at [Docsumo](https://docsumo.com/about). I have completed my undergraduate from [IOE, Pulchowk Campus, Nepal](http://doece.pcampus.edu.np/). -->
 
